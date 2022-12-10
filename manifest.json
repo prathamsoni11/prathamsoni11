@@ -1,11 +1,11 @@
 {
-    "name": "the_social_chutney",
-    "short_name": "the_social_chutney",
+    "name": "The Social Chutney",
+    "short_name": "The Social Chutney",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Get ready to welcome 2023 with a bang",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
